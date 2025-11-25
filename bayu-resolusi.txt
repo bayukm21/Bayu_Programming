@@ -1,4 +1,4 @@
-Bayu Programming
+Bayu Resolusi
 - mempelajari bahasa pemrograman baru
 - mempelajari HTML, CSS, JS
 - mempelajari python
